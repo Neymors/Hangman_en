@@ -1,0 +1,46 @@
+const wordList = [
+    {
+        word: "coffee",
+        hint: "A popular caffeinated beverage made from roasted coffe beans."
+    },
+    {
+        word: "astronomy",
+        hint: "The scientific study of celestial objects, such as stars, planets, comets, and galaxies."
+    },    
+    {
+        word: "umbrella",
+        hint: "A device consisting of a circular canopy of cloth on a folding metal frame, carried for protection against rain."
+    },
+    {
+        word: "ocean",
+        hint: "A vast body of saltwater that covers almost three-quarters of the Earth's surface."
+    },
+    {
+        word: "keyboard",
+        hint: "A set of keys or buttons typically arranged in a specific order for inputting data into a computer or other devices."
+    },
+    {
+        word: "elephant",
+        hint: "A large mammal with a long trunk and large tusks, native to Africa and Asia."
+    },    
+    {
+        word: "library",
+        hint: "A place where books and other informational materials are kept for people to read or borrow."
+    },
+    {
+        word: "sunset",
+        hint: "The daily disappearance of the sun below the horizon, often creating a beautiful sky."
+    },
+    {
+        word: "mountain",
+        hint: "A large landform that rises prominently above its surroundings."
+    },
+    {
+        word: "guitar",
+        hint: "A musical instrument with strings typically played by strumming or plucking."
+    },
+    {
+        word: "programming",
+        hint: "The act of writing and designing computer programs."
+    },    
+]
